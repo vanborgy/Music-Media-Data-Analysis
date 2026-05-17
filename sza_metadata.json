@@ -1,0 +1,357 @@
+{
+    "obj": {
+        "id": 4515,
+        "name": "SZA",
+        "created_at": "2026-05-09T08:04:38Z",
+        "code2": "US",
+        "band": false,
+        "pronoun_title": "she/her",
+        "gender_title": "female",
+        "gender": 0,
+        "isni": "000000044802241X",
+        "cm_artist_rank": 63,
+        "cm_artist_score": 97.15932310365329,
+        "cover_url": "https://i.scdn.co/image/ab67616d0000b2731baf4bcb4fc8180d7a3ef3ad",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebfd0a9fb6c252a3ba44079acf",
+        "hometown_city": null,
+        "current_city": null,
+        "current_city_id": null,
+        "band_members": null,
+        "booking_agent": null,
+        "record_label": "SME",
+        "press_contact": null,
+        "general_manager": null,
+        "topSongwriterCollaborators": [
+            "Kendrick Lamar",
+            "SZA",
+            "M. Spears",
+            "Alexander Shuckburgh & Anthony Tiffith",
+            "S. Rowe",
+            "M. Spears & Al Shux",
+            "Al Shuckburgh & Anthony Tiffith",
+            "M. Spears & Al Shuckburgh",
+            "Kenny B. Edmonds",
+            "Khris Riddick-Tynes",
+            "Leon Thomas & Blair Ferguson"
+        ],
+        "description": "SZA (Sol\u00e1na Imani Rowe) is a global icon reshaping the landscape of modern music. SZA has become a defining artist of her generation; born in St. Louis and raised in New Jersey. She first captured the world\u2019s attention with her groundbreaking debut album Ctrl (2017), in which she earned acclaim for blending vulnerability with genre-blurring melodies. In 2022, her chart-topping sophomore album SOS pushed boundaries, and its deluxe edition, SOS Deluxe: LANA (2024), solidified her place among music\u2019s greats with 15 new tracks showcasing her evolution.\n\nFrom Grammy wins to sold-out tours and iconic collaborations with Kendrick Lamar, Doja Cat, and Travis Scott, SZA continues to inspire and connect deeply with fans worldwide through her music about love, self-discovery, and empowerment.",
+        "genres": {
+            "primary": {
+                "id": 501125,
+                "name": "r&b/soul",
+                "type": "genre_v2",
+                "source": "cm"
+            },
+            "secondary": [
+                {
+                    "id": 507555,
+                    "name": "alternative r&b",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 501181,
+                    "name": "neo-soul",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 507846,
+                    "name": "trap soul",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 507687,
+                    "name": "indie soul",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 507779,
+                    "name": "prog-rnb",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 501121,
+                    "name": "hip-hop/rap",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 501120,
+                    "name": "pop",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 503523,
+                    "name": "us alternative",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 503512,
+                    "name": "us hip-hop/rap",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 503511,
+                    "name": "us pop",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 503516,
+                    "name": "us r&b/soul",
+                    "type": "genre_v2",
+                    "source": "cm"
+                },
+                {
+                    "id": 503513,
+                    "name": "us rock",
+                    "type": "genre_v2",
+                    "source": "cm"
+                }
+            ],
+            "sub": []
+        },
+        "genre_smart_ordered": [
+            {
+                "1": 501125
+            },
+            {
+                "2": 507555
+            },
+            {
+                "3": 501181
+            },
+            {
+                "4": 507846
+            },
+            {
+                "5": 507687
+            },
+            {
+                "6": 507779
+            },
+            {
+                "7": 501121
+            },
+            {
+                "8": 501120
+            },
+            {
+                "9": 503523
+            },
+            {
+                "10": 503512
+            },
+            {
+                "11": 503511
+            },
+            {
+                "12": 503516
+            },
+            {
+                "13": 503513
+            }
+        ],
+        "moods": [
+            {
+                "id": 504990,
+                "name": "heartbroken"
+            },
+            {
+                "id": 504951,
+                "name": "emotional"
+            },
+            {
+                "id": 505083,
+                "name": "vulnerable"
+            },
+            {
+                "id": 504952,
+                "name": "empowering"
+            },
+            {
+                "id": 505015,
+                "name": "melancholic"
+            },
+            {
+                "id": 504937,
+                "name": "contemplative"
+            },
+            {
+                "id": 505011,
+                "name": "longing"
+            },
+            {
+                "id": 505004,
+                "name": "introspective"
+            }
+        ],
+        "activities": [
+            {
+                "id": 504877,
+                "name": "self-love"
+            },
+            {
+                "id": 504878,
+                "name": "urban"
+            },
+            {
+                "id": 504873,
+                "name": "daydreaming"
+            },
+            {
+                "id": 504872,
+                "name": "dancy"
+            },
+            {
+                "id": 504876,
+                "name": "partying"
+            },
+            {
+                "id": 504903,
+                "name": "late-night"
+            },
+            {
+                "id": 504886,
+                "name": "drinking"
+            },
+            {
+                "id": 504871,
+                "name": "bonding"
+            }
+        ],
+        "career_status": {
+            "stage": "superstar",
+            "stage_score": 36,
+            "trend": "gradual decline",
+            "trend_score": 3
+        },
+        "cm_statistics": {
+            "countryRank": {
+                "code2": "US",
+                "country": "United States",
+                "rank": 31,
+                "percentile": 1
+            },
+            "sp_followers": 35746880,
+            "sp_followers_rank": 55,
+            "deezer_fans": 1287388,
+            "deezer_fans_rank": 543,
+            "sp_popularity": 89,
+            "sp_popularity_rank": 47,
+            "sp_monthly_listeners": 69682456,
+            "sp_monthly_listeners_rank": 25,
+            "sp_where_people_listen": [
+                {
+                    "code2": "gb",
+                    "listeners": 1101368,
+                    "name": "London"
+                },
+                {
+                    "code2": "us",
+                    "listeners": 939291,
+                    "name": "Los Angeles"
+                },
+                {
+                    "code2": "us",
+                    "listeners": 878906,
+                    "name": "Chicago"
+                },
+                {
+                    "code2": "au",
+                    "listeners": 778304,
+                    "name": "Sydney"
+                },
+                {
+                    "code2": "us",
+                    "listeners": 738241,
+                    "name": "New York City"
+                }
+            ],
+            "ins_followers": 23146555,
+            "ins_followers_rank": 232,
+            "ycs_subscribers": 6680000,
+            "ycs_subscribers_rank": 765,
+            "ycs_views": 5365757639,
+            "ycs_views_rank": 473,
+            "tiktok_followers": 1100000,
+            "tiktok_followers_rank": 4769,
+            "tiktok_likes": 2000000,
+            "tiktok_likes_rank": 16414,
+            "tiktok_top_video_views": 58049956193,
+            "tiktok_top_video_views_rank": 44,
+            "tiktok_top_video_comments": 51592971,
+            "tiktok_track_posts": 39253398,
+            "tiktok_track_posts_rank": 88,
+            "cm_artist_rank": 63,
+            "cm_artist_score": 97.15932310365329,
+            "fan_base_rank": 65,
+            "rank_fb": 65,
+            "rank_eg": 70,
+            "engagement_rank": 70,
+            "twitter_followers": 9062381,
+            "youtube_daily_video_views": 3980395,
+            "youtube_daily_video_views_rank": 186,
+            "youtube_monthly_video_views": 119095392,
+            "youtube_monthly_video_views_rank": 190,
+            "twitch_followers": null,
+            "twitch_followers_rank": null,
+            "twitch_views": null,
+            "twitch_views_rank": null,
+            "twitch_monthly_viewer_hours": null,
+            "twitch_monthly_viewer_hours_rank": null,
+            "twitch_weekly_viewer_hours": null,
+            "twitch_weekly_viewer_hours_rank": null,
+            "pandora_listeners_28_day": 2667112,
+            "pandora_listeners_28_day_rank": 139,
+            "pandora_lifetime_stations_added": 5756416,
+            "pandora_lifetime_stations_added_rank": 363,
+            "pandora_lifetime_streams": 2308500065,
+            "pandora_lifetime_streams_rank": 395,
+            "boomplay_ranking_current": null,
+            "boomplay_ranking_current_rank": null,
+            "boomplay_favorites": null,
+            "boomplay_favorites_rank": null,
+            "boomplay_shares": null,
+            "boomplay_shares_rank": null,
+            "boomplay_comments": null,
+            "boomplay_comments_rank": null,
+            "boomplay_plays": null,
+            "boomplay_plays_rank": null,
+            "num_sp_editorial_playlists": 972,
+            "num_sp_playlists": 1872911,
+            "sp_playlist_total_reach": 609555996,
+            "sp_editorial_playlist_total_reach": 166582573,
+            "num_am_editorial_playlists": 998,
+            "num_am_playlists": 2816,
+            "num_de_editorial_playlists": 182,
+            "num_de_playlists": 783,
+            "de_playlist_total_reach": 23857548,
+            "de_editorial_playlist_total_reach": 14414039,
+            "num_az_editorial_playlists": 1053,
+            "num_az_playlists": 1096,
+            "num_yt_editorial_playlists": 87,
+            "num_yt_playlists": 543,
+            "yt_playlist_total_reach": 6881453376,
+            "yt_editorial_playlist_total_reach": 214466,
+            "shazam_count": 113724167,
+            "genius_pageviews": 62789151,
+            "line_music_artist_likes": 11046,
+            "line_music_likes": 41517,
+            "line_music_likes_rank": 885,
+            "line_music_plays": 5909147,
+            "line_music_plays_rank": 818,
+            "line_music_mv_plays": 5909147
+        },
+        "genreRank": {},
+        "subGenreRank1": {},
+        "subGenreRank2": {}
+    }
+}
